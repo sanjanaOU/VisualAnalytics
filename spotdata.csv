@@ -1,0 +1,891 @@
+Year,Top_Genre,Avg_Energy
+1956,adult standards,66.0
+1958,adult standards,37.2
+1959,adult standards,50.0
+1959,bebop,26.0
+1959,blues rock,80.0
+1960,adult standards,35.0
+1961,adult standards,29.0
+1962,adult standards,39.0
+1963,adult standards,26.5
+1963,album rock,17.0
+1963,arkansas country,59.0
+1963,british invasion,82.5
+1964,adult standards,38.0
+1964,album rock,55.666666666666664
+1964,arkansas country,53.0
+1964,british invasion,69.5
+1964,chanson,63.0
+1964,classic rock,22.0
+1965,adult standards,22.666666666666668
+1965,album rock,62.0
+1965,art rock,47.0
+1965,british invasion,40.2
+1966,adult standards,50.333333333333336
+1966,album rock,66.8
+1966,baroque pop,62.333333333333336
+1966,brill building pop,75.0
+1966,british invasion,31.5
+1966,classic rock,31.5
+1966,classic soul,14.0
+1966,classic uk pop,18.0
+1966,motown,24.0
+1967,adult standards,49.0
+1967,album rock,57.357142857142854
+1967,baroque pop,47.0
+1967,brill building pop,78.0
+1967,british invasion,41.0
+1967,bubblegum pop,67.0
+1967,canadian folk,28.5
+1967,classic rock,58.0
+1967,classic soul,60.0
+1967,dutch indie,24.0
+1968,adult standards,42.55555555555556
+1968,album rock,70.42857142857143
+1968,brill building pop,49.0
+1968,british invasion,58.333333333333336
+1968,classic rock,46.0
+1968,classic soul,37.0
+1968,classic uk pop,54.0
+1968,dutch indie,53.0
+1968,dutch rock,52.0
+1968,pop,34.0
+1969,adult standards,28.166666666666668
+1969,album rock,56.8
+1969,blues,46.0
+1969,blues rock,87.0
+1969,british folk,30.0
+1969,british invasion,42.0
+1969,classic rock,76.0
+1969,classic uk pop,43.666666666666664
+1969,dutch indie,71.0
+1969,dutch prog,55.0
+1970,adult standards,50.333333333333336
+1970,album rock,54.285714285714285
+1970,arkansas country,26.0
+1970,baroque pop,36.0
+1970,blues rock,36.0
+1970,british folk,33.0
+1970,british invasion,44.0
+1970,chicago soul,97.0
+1970,classic rock,46.2
+1970,classic schlager,45.0
+1970,classic uk pop,79.0
+1970,glam rock,32.0
+1971,adult standards,37.857142857142854
+1971,album rock,61.608695652173914
+1971,alternative pop rock,50.0
+1971,blues,36.5
+1971,blues rock,33.0
+1971,british folk,32.0
+1971,canadian folk,4.0
+1971,classic soul,62.0
+1971,classic uk pop,49.0
+1971,glam rock,43.0
+1972,adult standards,40.25
+1972,album rock,59.63157894736842
+1972,arkansas country,50.0
+1972,art rock,29.5
+1972,bubblegum pop,47.0
+1972,glam rock,53.0
+1972,pop,16.0
+1973,adult standards,46.0
+1973,album rock,53.78947368421053
+1973,brill building pop,38.0
+1973,british invasion,29.0
+1973,classic soul,60.0
+1973,classic uk pop,24.0
+1973,glam rock,47.5
+1974,adult standards,43.833333333333336
+1974,album rock,46.0
+1974,classic country pop,34.0
+1974,dance rock,50.0
+1974,europop,93.0
+1974,german pop,25.0
+1974,glam rock,65.0
+1974,hard rock,81.0
+1975,adult standards,48.0
+1975,album rock,53.53333333333333
+1975,classic rock,53.166666666666664
+1975,classic uk pop,54.5
+1975,dutch cabaret,25.0
+1975,europop,72.5
+1975,funk,96.0
+1975,glam rock,48.0
+1975,j-core,49.0
+1975,reggae,68.0
+1976,adult standards,62.0
+1976,album rock,61.23529411764706
+1976,blues,41.0
+1976,classic rock,78.0
+1976,europop,71.0
+1976,folk,28.0
+1976,glam rock,79.0
+1977,adult standards,54.0
+1977,album rock,60.81481481481482
+1977,alternative rock,79.33333333333333
+1977,art rock,48.0
+1977,blues,74.0
+1977,blues rock,70.0
+1977,classic rock,71.0
+1977,classic soul,65.0
+1977,dance pop,71.0
+1977,disco,69.5
+1977,dutch pop,43.0
+1977,dutch rock,45.0
+1977,europop,55.666666666666664
+1977,glam rock,54.0
+1977,punk,94.5
+1977,reggae,50.0
+1978,adult standards,12.0
+1978,album rock,60.733333333333334
+1978,art pop,48.333333333333336
+1978,classic rock,78.0
+1978,dance pop,62.0
+1978,disco,86.0
+1978,dutch cabaret,33.0
+1978,dutch indie,73.0
+1978,glam rock,74.33333333333333
+1978,reggae,69.0
+1979,adult standards,37.333333333333336
+1979,album rock,64.93333333333334
+1979,basshall,93.0
+1979,classic rock,80.0
+1979,classic uk pop,57.0
+1979,dance pop,67.0
+1979,dance rock,91.66666666666667
+1979,disco,71.0
+1979,dutch rock,52.0
+1979,europop,61.2
+1979,pop,67.75
+1980,adult standards,37.666666666666664
+1980,album rock,66.5
+1980,alternative rock,92.0
+1980,art rock,76.0
+1980,blues,88.5
+1980,classic country pop,78.0
+1980,classic rock,77.0
+1980,dance rock,75.5
+1980,dutch pop,29.0
+1980,dutch rock,38.0
+1980,europop,63.0
+1980,glam rock,58.0
+1980,reggae,49.0
+1980,reggae fusion,53.0
+1981,adult standards,24.0
+1981,album rock,69.85714285714286
+1981,art rock,56.0
+1981,dance rock,51.0
+1981,dutch rock,35.0
+1981,europop,39.5
+1981,mellow gold,24.0
+1982,album rock,46.84615384615385
+1982,bow pop,66.0
+1982,classic country pop,33.5
+1982,classic rock,83.0
+1982,classic soul,60.0
+1982,dance pop,70.0
+1982,dance rock,71.0
+1982,dutch indie,60.0
+1982,dutch pop,50.5
+1982,dutch rock,55.0
+1982,funk,73.0
+1982,german pop,57.0
+1982,glam rock,71.0
+1982,mellow gold,94.0
+1982,pop,72.5
+1983,adult standards,39.333333333333336
+1983,album rock,72.375
+1983,art rock,77.5
+1983,australian alternative rock,40.0
+1983,celtic,7.0
+1983,classic soul,35.0
+1983,dance pop,75.0
+1983,dance rock,77.33333333333333
+1983,dutch indie,52.0
+1983,german pop,68.0
+1983,glam rock,90.0
+1983,irish rock,94.5
+1983,reggae,46.0
+1984,adult standards,25.0
+1984,album rock,64.88888888888889
+1984,alternative metal,93.0
+1984,alternative rock,85.0
+1984,art pop,8.0
+1984,art rock,66.0
+1984,canadian folk,34.0
+1984,classic rock,76.5
+1984,dance rock,59.4
+1984,disco,57.0
+1984,dutch pop,27.0
+1984,funk,78.0
+1984,glam rock,46.0
+1984,irish rock,75.33333333333333
+1984,yacht rock,92.0
+1985,album rock,59.1
+1985,alternative rock,71.0
+1985,art pop,40.0
+1985,art rock,78.0
+1985,austropop,66.0
+1985,british soul,51.0
+1985,dance pop,31.0
+1985,dance rock,73.0
+1985,dutch cabaret,55.0
+1985,dutch indie,46.5
+1985,electro,45.0
+1985,funk,67.0
+1985,glam rock,66.0
+1985,mellow gold,81.0
+1985,permanent wave,17.0
+1985,reggae fusion,61.0
+1986,album rock,64.81818181818181
+1986,alternative metal,91.5
+1986,alternative rock,86.0
+1986,art pop,95.0
+1986,art rock,59.666666666666664
+1986,australian pop,42.0
+1986,celtic,38.0
+1986,classic rock,54.8
+1986,classic uk pop,29.0
+1986,dance pop,22.5
+1986,dance rock,86.66666666666667
+1986,dutch cabaret,31.0
+1986,dutch pop,8.0
+1986,east coast hip hop,58.0
+1986,funk,16.5
+1986,glam metal,88.33333333333333
+1986,glam rock,74.33333333333333
+1987,adult standards,64.0
+1987,album rock,63.666666666666664
+1987,alternative country,41.0
+1987,alternative rock,86.5
+1987,art pop,86.0
+1987,art rock,84.0
+1987,australian rock,69.0
+1987,chanson,35.0
+1987,classic rock,62.0
+1987,dance pop,88.0
+1987,dance rock,52.0
+1987,dutch cabaret,47.0
+1987,dutch indie,52.0
+1987,dutch pop,12.0
+1987,folk,50.5
+1987,funk,58.0
+1987,glam metal,80.5
+1987,irish rock,61.0
+1987,permanent wave,27.5
+1987,pop,81.75
+1988,album rock,57.63636363636363
+1988,alternative metal,69.0
+1988,art rock,53.0
+1988,australian pop,37.0
+1988,canadian folk,18.0
+1988,celtic,31.0
+1988,celtic punk,65.0
+1988,classic schlager,74.0
+1988,classic uk pop,38.0
+1988,disco,72.0
+1988,dutch cabaret,63.0
+1988,europop,58.0
+1988,folk,51.666666666666664
+1988,irish rock,60.0
+1988,italian pop,28.0
+1988,new wave pop,56.0
+1989,album rock,61.125
+1989,alternative metal,89.0
+1989,alternative rock,39.0
+1989,art rock,74.33333333333333
+1989,belgian rock,33.0
+1989,british soul,35.0
+1989,classic canadian rock,37.0
+1989,classic rock,48.0
+1989,dance pop,57.0
+1989,dance rock,68.33333333333333
+1989,disco,74.0
+1989,dutch indie,61.666666666666664
+1989,glam rock,78.5
+1989,mellow gold,70.33333333333333
+1989,permanent wave,45.0
+1989,reggae fusion,25.0
+1990,adult standards,51.0
+1990,album rock,53.857142857142854
+1990,alternative metal,52.5
+1990,alternative rock,59.0
+1990,art rock,68.0
+1990,belgian rock,19.0
+1990,christelijk,32.0
+1990,dance rock,81.0
+1990,dutch indie,61.0
+1990,europop,65.0
+1990,folk,57.0
+1990,glam rock,86.0
+1991,album rock,57.2
+1991,alternative metal,65.75
+1991,alternative rock,80.66666666666667
+1991,australian pop,43.5
+1991,british soul,82.0
+1991,carnaval limburg,85.0
+1991,classic rock,15.0
+1991,disco,67.0
+1991,dutch rock,59.5
+1991,folk,51.0
+1991,funk,55.0
+1991,glam metal,70.2
+1991,glam rock,64.0
+1991,irish rock,59.5
+1991,levenslied,49.0
+1991,pop,69.5
+1992,album rock,68.25
+1992,alternative metal,72.6
+1992,alternative rock,45.6
+1992,big beat,87.0
+1992,bubblegum pop,59.0
+1992,classic rock,52.0
+1992,classic soul,28.0
+1992,cyberpunk,30.0
+1992,dance pop,30.5
+1992,dance rock,76.0
+1992,diva house,65.0
+1992,dutch cabaret,47.0
+1992,europop,47.0
+1992,gangster rap,71.0
+1992,glam metal,83.0
+1992,nederpop,51.0
+1992,new wave pop,56.0
+1993,adult standards,54.0
+1993,album rock,45.333333333333336
+1993,alternative metal,42.0
+1993,alternative rock,67.625
+1993,art rock,53.0
+1993,classical rock,33.0
+1993,dance rock,65.0
+1993,disco,51.0
+1993,dutch indie,85.0
+1993,dutch pop,56.0
+1993,europop,65.0
+1993,irish rock,43.0
+1993,italian pop,60.0
+1993,permanent wave,46.0
+1994,album rock,41.0
+1994,alternative metal,69.33333333333333
+1994,alternative rock,61.333333333333336
+1994,art pop,43.0
+1994,big beat,99.0
+1994,british soul,55.5
+1994,britpop,79.0
+1994,canadian rock,57.0
+1994,dance pop,63.0
+1994,dutch cabaret,69.0
+1994,dutch rock,26.0
+1994,glam metal,66.0
+1994,irish rock,54.5
+1994,modern rock,92.5
+1995,adult standards,32.0
+1995,album rock,49.0
+1995,alternative metal,65.25
+1995,alternative rock,44.25
+1995,british alternative rock,77.0
+1995,british soul,73.0
+1995,britpop,73.25
+1995,classic rock,31.0
+1995,dutch cabaret,57.333333333333336
+1995,dutch pop,31.0
+1995,funk,86.0
+1995,g funk,52.5
+1995,german pop rock,48.0
+1995,glam rock,53.166666666666664
+1995,pop,68.4
+1996,adult standards,35.0
+1996,album rock,80.5
+1996,alternative rock,65.0
+1996,art rock,47.0
+1996,big beat,58.0
+1996,boy band,65.0
+1996,british alternative rock,54.0
+1996,canadian pop,29.0
+1996,chanson,54.0
+1996,dance pop,87.0
+1996,dance rock,33.0
+1996,dutch cabaret,36.0
+1996,dutch indie,37.0
+1996,dutch pop,75.0
+1996,east coast hip hop,29.0
+1996,eurodance,76.0
+1997,adult standards,35.75
+1997,album rock,56.0
+1997,alternative metal,84.8
+1997,alternative rock,63.8
+1997,art rock,9.0
+1997,australian rock,50.0
+1997,big beat,92.0
+1997,canadian pop,28.0
+1997,classic uk pop,61.0
+1997,dutch cabaret,40.833333333333336
+1997,dutch indie,86.0
+1997,dutch pop,95.0
+1997,electro,80.0
+1997,glam rock,31.0
+1997,latin jazz,50.0
+1997,modern rock,43.0
+1998,adult standards,9.0
+1998,album rock,66.0
+1998,alternative metal,92.33333333333333
+1998,alternative pop rock,47.0
+1998,alternative rock,85.0
+1998,art rock,85.0
+1998,big beat,65.5
+1998,christelijk,49.5
+1998,dance pop,61.0
+1998,dance rock,60.357142857142854
+1998,dutch americana,52.5
+1998,dutch cabaret,46.333333333333336
+1998,dutch indie,53.5
+1998,dutch pop,21.0
+1998,german alternative rock,59.0
+1998,irish rock,80.0
+1998,latin,54.0
+1998,pop,20.0
+1999,album rock,55.5
+1999,alternative dance,92.0
+1999,alternative metal,85.33333333333333
+1999,alternative rock,62.166666666666664
+1999,blues rock,77.0
+1999,classic italian pop,40.0
+1999,dance pop,77.5
+1999,detroit hip hop,68.0
+1999,downtempo,63.0
+1999,dutch cabaret,17.0
+1999,dutch pop,41.5
+1999,europop,66.0
+1999,g funk,91.0
+1999,mellow gold,74.0
+1999,modern rock,28.0
+1999,permanent wave,65.0
+1999,pop punk,90.0
+2000,adult standards,51.0
+2000,album rock,78.0
+2000,alternative metal,86.5
+2000,alternative rock,71.0
+2000,arkansas country,53.0
+2000,belgian rock,66.0
+2000,british invasion,72.66666666666667
+2000,canadian folk,14.0
+2000,celtic,25.0
+2000,classic rock,67.0
+2000,dance pop,45.0
+2000,dance rock,74.0
+2000,detroit hip hop,71.5
+2000,dutch americana,35.0
+2000,dutch cabaret,61.0
+2000,dutch indie,57.0
+2000,dutch pop,59.5
+2000,dutch rock,68.0
+2000,glam metal,91.0
+2000,irish rock,79.0
+2000,permanent wave,60.5
+2000,reggae fusion,47.0
+2001,adult standards,61.5
+2001,album rock,57.75
+2001,alternative hip hop,69.0
+2001,alternative metal,73.33333333333333
+2001,bow pop,19.0
+2001,boy band,70.0
+2001,dance pop,55.333333333333336
+2001,disco,72.0
+2001,downtempo,64.0
+2001,dutch indie,62.666666666666664
+2001,dutch pop,32.0
+2001,electro,71.0
+2001,latin alternative,74.0
+2001,modern rock,73.0
+2002,adult standards,46.0
+2002,album rock,70.0
+2002,alternative metal,72.6
+2002,alternative rock,90.66666666666667
+2002,arkansas country,39.0
+2002,belgian rock,30.0
+2002,blues,65.0
+2002,classic rock,79.0
+2002,dance pop,63.0
+2002,detroit hip hop,71.5
+2002,dutch cabaret,56.25
+2002,dutch indie,71.0
+2002,dutch pop,64.2
+2002,mellow gold,78.0
+2002,neo mellow,6.0
+2002,permanent wave,48.714285714285715
+2002,pop,71.0
+2003,acoustic pop,20.0
+2003,adult standards,58.0
+2003,album rock,93.0
+2003,alternative metal,68.2
+2003,alternative rock,46.0
+2003,atl hip hop,97.0
+2003,blues rock,44.0
+2003,britpop,65.0
+2003,carnaval limburg,79.0
+2003,celtic rock,55.0
+2003,classic rock,62.0
+2003,dance pop,67.0
+2003,disco,82.0
+2003,dutch cabaret,61.0
+2003,dutch metal,58.0
+2003,dutch pop,61.5
+2003,neo mellow,41.0
+2003,pop,80.0
+2004,adult standards,52.5
+2004,afropop,70.0
+2004,album rock,49.2
+2004,alternative pop rock,46.0
+2004,alternative rock,80.5
+2004,boy band,60.0
+2004,british soul,79.5
+2004,carnaval limburg,54.0
+2004,chanson,41.5
+2004,classic uk pop,31.0
+2004,dance pop,80.0
+2004,danish pop rock,43.0
+2004,dutch indie,61.5
+2004,dutch metal,87.0
+2004,dutch pop,49.0
+2004,east coast hip hop,79.0
+2004,electro,64.0
+2004,finnish metal,78.0
+2004,irish rock,70.75
+2004,modern rock,79.8
+2004,soft rock,78.0
+2004,trance,85.0
+2005,adult standards,46.0
+2005,album rock,87.33333333333333
+2005,alternative dance,88.0
+2005,alternative hip hop,71.0
+2005,alternative metal,92.5
+2005,alternative rock,68.5
+2005,big beat,90.0
+2005,britpop,93.0
+2005,carnaval limburg,36.4
+2005,classic rock,48.0
+2005,classic uk pop,92.0
+2005,dance pop,82.5
+2005,danish pop rock,77.0
+2005,detroit hip hop,74.0
+2005,dutch cabaret,75.0
+2005,dutch hip hop,53.0
+2005,dutch indie,44.5
+2005,dutch pop,31.0
+2005,german pop,54.0
+2005,modern rock,74.0
+2005,neo mellow,29.0
+2005,permanent wave,62.666666666666664
+2005,pop,76.0
+2005,uk pop,25.0
+2006,acid jazz,95.0
+2006,acoustic pop,17.0
+2006,alternative rock,92.0
+2006,belgian rock,85.0
+2006,big beat,89.0
+2006,british invasion,63.0
+2006,british soul,76.8
+2006,candy pop,73.5
+2006,dance pop,48.666666666666664
+2006,dutch cabaret,51.5
+2006,dutch pop,76.66666666666667
+2006,garage rock,91.5
+2006,irish rock,63.0
+2006,mellow gold,68.0
+2006,modern rock,91.66666666666667
+2006,neo mellow,48.333333333333336
+2006,operatic pop,44.0
+2007,adult standards,69.0
+2007,album rock,59.0
+2007,alternative dance,84.25
+2007,alternative metal,89.75
+2007,alternative rock,86.0
+2007,art rock,66.0
+2007,belgian rock,74.0
+2007,blues rock,61.0
+2007,canadian pop,46.0
+2007,classic uk pop,49.0
+2007,dance pop,84.0
+2007,dutch indie,53.5
+2007,dutch pop,61.2
+2007,eurodance,98.0
+2007,g funk,66.0
+2007,garage rock,81.0
+2007,permanent wave,58.0
+2007,scottish singer-songwriter,87.5
+2008,acoustic pop,46.0
+2008,album rock,58.6
+2008,alternative metal,77.0
+2008,art rock,42.5
+2008,australian pop,76.0
+2008,brill building pop,89.0
+2008,british folk,44.0
+2008,british soul,33.0
+2008,carnaval limburg,93.0
+2008,celtic,68.0
+2008,celtic rock,66.5
+2008,dance pop,65.75
+2008,dance rock,55.0
+2008,disco,93.0
+2008,dutch americana,67.0
+2008,dutch cabaret,61.875
+2008,dutch hip hop,62.5
+2008,dutch indie,38.0
+2008,dutch pop,68.0
+2008,dutch prog,55.0
+2008,dutch rock,68.66666666666667
+2008,german pop,48.666666666666664
+2008,modern rock,81.0
+2008,neo mellow,30.0
+2008,permanent wave,72.25
+2009,adult standards,72.0
+2009,album rock,72.0
+2009,alternative dance,80.75
+2009,alternative metal,34.0
+2009,alternative pop,65.0
+2009,alternative pop rock,88.0
+2009,alternative rock,35.0
+2009,art pop,81.0
+2009,big room,64.0
+2009,blues rock,48.0
+2009,britpop,71.5
+2009,classic rock,66.5
+2009,classic uk pop,53.0
+2009,dance pop,75.42857142857143
+2009,dutch cabaret,18.0
+2009,dutch indie,40.0
+2009,dutch pop,34.0
+2009,dutch prog,46.0
+2009,dutch rock,69.0
+2009,east coast hip hop,96.0
+2009,hip pop,37.0
+2009,irish rock,72.0
+2009,modern folk rock,49.5
+2009,modern rock,75.25
+2009,neo mellow,55.0
+2009,pop,66.0
+2010,adult standards,59.0
+2010,album rock,83.5
+2010,alternative rock,64.5
+2010,barbadian pop,91.0
+2010,belgian pop,59.0
+2010,belgian rock,41.0
+2010,brill building pop,73.0
+2010,chamber pop,19.0
+2010,classic schlager,80.0
+2010,classic uk pop,59.0
+2010,contemporary country,72.0
+2010,dance pop,70.33333333333333
+2010,dance rock,41.0
+2010,dutch cabaret,29.0
+2010,dutch hip hop,79.0
+2010,dutch indie,52.0
+2010,dutch pop,66.5
+2010,gabba,96.0
+2010,happy hardcore,92.0
+2010,modern rock,61.5
+2010,permanent wave,42.0
+2011,adult standards,32.0
+2011,album rock,50.5
+2011,alternative metal,76.5
+2011,alternative rock,72.33333333333333
+2011,arkansas country,46.0
+2011,australian pop,50.0
+2011,australian rock,63.0
+2011,big room,83.0
+2011,blues rock,75.0
+2011,british singer-songwriter,60.0
+2011,british soul,55.25
+2011,britpop,20.0
+2011,chanson,33.0
+2011,classic uk pop,80.0
+2011,dance pop,81.33333333333333
+2011,dutch cabaret,64.5
+2011,dutch hip hop,52.0
+2011,dutch indie,68.0
+2011,dutch metal,93.0
+2011,dutch pop,76.0
+2011,east coast hip hop,86.0
+2011,electro,82.0
+2011,gabba,94.0
+2011,indie pop,71.0
+2011,nederpop,45.0
+2011,neo mellow,29.0
+2011,permanent wave,68.66666666666667
+2011,pop,40.25
+2012,acoustic pop,30.0
+2012,album rock,20.0
+2012,alternative rock,32.0
+2012,arkansas country,40.0
+2012,art pop,23.0
+2012,art rock,28.0
+2012,australian indie folk,39.0
+2012,barbadian pop,51.0
+2012,british soul,43.5
+2012,celtic rock,81.5
+2012,dance pop,53.0
+2012,dutch cabaret,24.0
+2012,dutch hip hop,65.0
+2012,dutch pop,64.33333333333333
+2012,dutch rock,60.0
+2012,electropop,68.0
+2012,folk-pop,76.0
+2012,modern folk rock,71.0
+2012,modern rock,74.16666666666667
+2013,alaska indie,22.0
+2013,album rock,93.0
+2013,alternative dance,96.0
+2013,alternative metal,83.0
+2013,art pop,43.0
+2013,belgian pop,69.33333333333333
+2013,big room,80.5
+2013,boy band,76.5
+2013,chamber pop,75.0
+2013,dance pop,59.666666666666664
+2013,detroit hip hop,85.0
+2013,dutch hip hop,28.0
+2013,dutch indie,69.0
+2013,dutch pop,40.0
+2013,edm,83.0
+2013,electro,81.0
+2013,electronica,33.0
+2013,folk-pop,55.0
+2013,garage rock,53.0
+2013,irish pop,41.0
+2013,irish rock,88.0
+2013,metropopolis,68.0
+2013,modern rock,56.0
+2013,neo mellow,26.0
+2013,pop,5.0
+2014,album rock,34.0
+2014,alternative dance,95.0
+2014,alternative metal,34.0
+2014,british invasion,64.0
+2014,british soul,69.5
+2014,celtic rock,88.0
+2014,chamber pop,68.33333333333333
+2014,chanson,58.0
+2014,dance pop,69.25
+2014,dutch americana,39.0
+2014,dutch hip hop,56.333333333333336
+2014,dutch indie,54.333333333333336
+2014,dutch pop,73.71428571428571
+2014,eurodance,88.0
+2014,g funk,88.0
+2014,indie pop,87.0
+2014,irish singer-songwriter,66.0
+2014,neo mellow,31.0
+2014,permanent wave,56.0
+2014,pop,53.2
+2014,stomp and holler,73.0
+2015,adult standards,59.0
+2015,album rock,79.0
+2015,alternative dance,67.0
+2015,alternative metal,28.0
+2015,art pop,92.0
+2015,australian dance,79.0
+2015,australian psych,81.0
+2015,big beat,90.0
+2015,canadian pop,38.0
+2015,classic rock,33.0
+2015,contemporary country,37.0
+2015,contemporary vocal jazz,62.0
+2015,dance pop,63.0
+2015,downtempo,42.0
+2015,dutch americana,38.0
+2015,dutch cabaret,44.0
+2015,dutch indie,48.833333333333336
+2015,dutch pop,46.0
+2015,dutch prog,76.0
+2015,edm,93.0
+2015,finnish metal,58.0
+2015,folk-pop,46.0
+2015,irish rock,48.0
+2015,laboratorio,76.0
+2015,modern rock,81.66666666666667
+2015,permanent wave,75.0
+2015,rock-and-roll,47.0
+2016,adult standards,66.0
+2016,album rock,51.5
+2016,alternative rock,74.0
+2016,art rock,64.0
+2016,british soul,47.42857142857143
+2016,canadian folk,33.0
+2016,classic soundtrack,21.0
+2016,compositional ambient,24.0
+2016,dance pop,81.5
+2016,danish pop,47.0
+2016,disco,70.0
+2016,dutch americana,51.0
+2016,dutch cabaret,43.0
+2016,dutch hip hop,72.0
+2016,dutch pop,69.0
+2016,dutch prog,46.0
+2016,glam rock,46.0
+2016,icelandic indie,51.0
+2016,mellow gold,50.0
+2016,modern rock,40.0
+2016,neo mellow,7.0
+2017,adult standards,31.0
+2017,album rock,50.5
+2017,alternative dance,87.0
+2017,alternative metal,20.0
+2017,alternative pop rock,85.5
+2017,britpop,87.0
+2017,carnaval limburg,53.0
+2017,chamber pop,73.0
+2017,dance pop,50.75
+2017,dance rock,56.5
+2017,dutch indie,60.5
+2017,dutch pop,64.0
+2017,dutch rock,61.0
+2017,east coast hip hop,75.0
+2017,edm,71.0
+2017,electropop,64.0
+2017,indie anthem-folk,62.0
+2017,italian pop,40.0
+2017,la pop,72.0
+2017,metropopolis,68.0
+2017,modern rock,76.6
+2017,neo mellow,66.0
+2017,neo soul,73.0
+2017,pop,65.5
+2017,streektaal,21.0
+2018,australian americana,34.0
+2018,austropop,84.0
+2018,baroque pop,90.0
+2018,big room,49.0
+2018,blues rock,74.0
+2018,boy band,85.0
+2018,canadian pop,71.0
+2018,ccm,63.0
+2018,dance pop,61.2
+2018,disco,83.0
+2018,dutch americana,62.0
+2018,dutch cabaret,49.0
+2018,dutch hip hop,57.0
+2018,dutch indie,55.125
+2018,dutch pop,61.714285714285715
+2018,dutch rock,30.5
+2018,electro house,63.0
+2018,folk-pop,74.0
+2018,german pop,78.0
+2018,glam rock,41.0
+2018,modern folk rock,71.0
+2018,modern rock,62.5
+2018,neo mellow,69.0
+2018,pop,41.0
+2019,album rock,60.25
+2019,alternative dance,83.0
+2019,alternative metal,83.0
+2019,alternative rock,76.0
+2019,art rock,75.0
+2019,australian pop,38.0
+2019,dance rock,58.0
+2019,dutch americana,38.0
+2019,dutch hip hop,35.0
+2019,dutch pop,57.25
+2019,electropop,43.0
+2019,latin,80.0
+2019,pop,32.0
